@@ -13,7 +13,7 @@ export default function Navbar() {
                 </ul>
             </div>
             <div className="login">
-                <button className='bg-[#D01C28] text-[#fff] px-4 py-1 rounded-lg'>
+                <button className='bg-[#D01C28] text-[#ffffff] px-4 py-1 rounded-lg'>
                     Login
                 </button>
             </div>
