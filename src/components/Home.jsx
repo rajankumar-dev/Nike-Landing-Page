@@ -1,11 +1,11 @@
 export default function Home() {
     return (
-        <main className="max-w-6xl mx-auto flex justify-between items-center h-[calc(100vh-80px)]">
+        <main className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center justify-between px-6 py-10">
 
             {/* Left Section */}
-            <div className="w-1/2 flex flex-col items-start gap-4">
+            <div className="w-full lg:w-1/2 flex flex-col items-start gap-4">
 
-                <h1 className="text-[96px] font-extrabold leading-[80px]">
+                <h1 className="text-[48px] md:text-[72px] lg:text-[96px] font-extrabold leading-[50px] md:leading-[70px] lg:leading-[90px]">
                     YOUR FEET
                     <br />
                     DESERVE
@@ -13,13 +13,13 @@ export default function Home() {
                     THE BEST
                 </h1>
 
-                <p className="text-gray-600 max-w-md">
+                <p className="text-sm md:text-base max-w-md">
                     YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU
                     WITH OUR SHOES. YOUR FEET DESERVE THE BEST AND WE’RE
                     HERE TO HELP YOU WITH OUR SHOES.
                 </p>
 
-                <div className="flex gap-4">
+                <div className="flex flex-col sm:flex-row gap-4">
                     <button className="bg-[#D01C28] text-white px-5 py-2 rounded-lg">
                         SHOP NOW
                     </button>
@@ -43,8 +43,12 @@ export default function Home() {
             </div>
 
             {/* Right Section */}
-            <div className="w-1/2 flex justify-end">
-                <img src="shoe_image.png" alt="Shoe" />
+            <div className="w-full lg:w-1/2 flex justify-end">
+                <img
+                    src="shoe_image.png"
+                    className="w-full max-w-[500px] lg:max-w-[600px]"
+                    alt=""
+                />
             </div>
 
         </main>
