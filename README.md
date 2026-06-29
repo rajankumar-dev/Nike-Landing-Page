@@ -6,7 +6,7 @@ A modern and responsive Nike Landing Page built with **React.js** and **Tailwind
 
 ## 🚀 Live Demo
 
-https://product-page-xk42.onrender.com
+[Go Live](https://product-page-xk42.onrender.com)
 
 ---
 
