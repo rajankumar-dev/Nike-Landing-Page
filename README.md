@@ -1,16 +1,127 @@
-# React + Vite
+# 👟 Nike Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive Nike Landing Page built with **React.js** and **Tailwind CSS**. This project was created to practice React fundamentals, component-based architecture, responsive layouts, and Tailwind CSS utility classes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+> Add your Vercel deployment link here after deployment.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Example:
 
-## Expanding the Oxlint configuration
+https://nike-landing-page.vercel.app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 📸 Preview
+
+> Add a screenshot of your project here.
+
+Example:
+
+```
+assets/preview.png
+```
+
+---
+
+## ✨ Features
+
+- ✅ Responsive Design
+- ✅ Modern Landing Page UI
+- ✅ Built with React Components
+- ✅ Tailwind CSS Styling
+- ✅ Mobile First Approach
+- ✅ Responsive Navigation Bar
+- ✅ Responsive Hero Section
+- ✅ Clean & Organized Code
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+
+---
+
+## 📂 Folder Structure
+
+```text
+src/
+│
+├── components/
+│   ├── Navbar.jsx
+│   └── Home.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/nike-landing-page.git
+```
+
+Go to the project directory
+
+```bash
+cd nike-landing-page
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📚 What I Learned
+
+- React Components
+- JSX
+- Props
+- Tailwind CSS
+- Responsive Design
+- Flexbox
+- Mobile First Development
+- Component-Based Architecture
+- Project Structure
+- Git & GitHub Workflow
+
+---
+
+## 🎯 Future Improvements
+
+- Hamburger Menu
+- Product Listing Section
+- Footer Section
+- Animations
+- Better Accessibility
+- Performance Optimization
+
+---
+
+## 👨‍💻 Author
+
+**Rajan Kumar**
+
+---
