@@ -6,23 +6,7 @@ A modern and responsive Nike Landing Page built with **React.js** and **Tailwind
 
 ## 🚀 Live Demo
 
-> Add your Vercel deployment link here after deployment.
-
-Example:
-
-https://nike-landing-page.vercel.app
-
----
-
-## 📸 Preview
-
-> Add a screenshot of your project here.
-
-Example:
-
-```
-assets/preview.png
-```
+https://product-page-xk42.onrender.com
 
 ---
 
