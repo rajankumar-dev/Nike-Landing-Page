@@ -28,8 +28,6 @@ A modern and responsive Nike Landing Page built with **React.js** and **Tailwind
 - React.js
 - Tailwind CSS
 - JavaScript (ES6+)
-- HTML5
-- CSS3
 - Vite
 
 ---
