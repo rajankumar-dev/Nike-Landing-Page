@@ -1,6 +1,6 @@
 # 👟 Nike Landing Page
 
-A modern and responsive Nike Landing Page built with **React.js** and **Tailwind CSS**. This project was created to practice React fundamentals, component-based architecture, responsive layouts, and Tailwind CSS utility classes.
+A modern and Responsive Nike Landing Page built with **React.js** and **Tailwind CSS**. This project was created to practice React fundamentals, component-based architecture, responsive layouts, and Tailwind CSS Utility classes.
 
 ---
 
